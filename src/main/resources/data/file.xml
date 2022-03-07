@@ -1,0 +1,10 @@
+<profiles>
+    <profile id="2" profilename="teradata" drivername="com.teradata.jdbc.TeraDriver" url="jdbc:teradata://sdt48259.labs.teradata.com/database=tacdb"
+        username="dbc" password="dbc"/>
+    <profile id="3" profilename="teradata" drivername="com.teradata.jdbc.TeraDriver" url="jdbc:teradata://sdt48259.labs.teradata.com/database=tacdb"
+             username="dbc" password="dbc"/>
+    <profile id="4" profilename="teradata" drivername="com.teradata.jdbc.TeraDriver" url="jdbc:teradata://sdt48259.labs.teradata.com/database=tacdb"
+             username="dbc" password="dbc"/>
+    <profile id="5" profilename="teradata" drivername="com.teradata.jdbc.TeraDriver" url="jdbc:teradata://sdt48259.labs.teradata.com/database=tacdb"
+             username="dbc" password="dbc"/>
+</profiles>
